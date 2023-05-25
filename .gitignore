@@ -7,3 +7,4 @@ data/tts.*
 data/transcripts
 
 .vscode/
+.idea/
